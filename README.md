@@ -2,8 +2,11 @@
 Matlab image registration software
 
 Author: Nathan D. Cahill
+
 Rochester Institute of Technology
+
 January 2014
+
 GNU GPL v3 licence.
 
 ## Overview
